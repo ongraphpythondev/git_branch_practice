@@ -12,5 +12,6 @@ class Test(View):
     print("this is test5")
     print("this is test6")
     print("this is test7")
+    print("this is branch1")
 
 
